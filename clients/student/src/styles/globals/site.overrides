@@ -1,0 +1,9 @@
+
+body{
+  padding: 2rem 0;
+}
+
+#clio-logo{
+  float: left;
+  margin: 1rem 1rem 0 0;
+}

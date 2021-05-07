@@ -1,0 +1,22 @@
+[
+  {
+    "key": "group-id-1",
+    "text": "Class 1",
+    "value": "group-id-1"
+  },
+  {
+    "key": "group-id-2",
+    "text": "Class 2",
+    "value": "group-id-2"
+  },
+  {
+    "key": "group-id-3",
+    "text": "Class 3",
+    "value": "group-id-3"
+  },
+  {
+    "key": "group-id-4",
+    "text": "Class 4",
+    "value": "group-id-4"
+  }
+]

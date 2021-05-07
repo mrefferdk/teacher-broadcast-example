@@ -1,0 +1,17 @@
+[
+  {
+    "key": "student-id-1000",
+    "text": "Student A",
+    "value": "student-id-1000"
+  },
+  {
+    "key": "student-id-1001",
+    "text": "Student B",
+    "value": "student-id-1001"
+  },
+  {
+    "key": "student-id-1002",
+    "text": "Student C",
+    "value": "student-id-1002"
+}
+]
